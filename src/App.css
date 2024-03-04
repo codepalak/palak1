@@ -1,0 +1,51 @@
+.slide{
+    display: flex;
+    
+
+
+}
+.image{
+    height: 400px;
+    width: 400px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    border:1 px solid black ;
+
+}
+
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    margin-top: 5px;
+}
+.grid4{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    margin-top: 5px;
+}
+.grid5{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+
+
+}
+.SD{
+    display: flex;
+    
+
+
+}
+.img{
+    height: 400px;
+    width: 400px;
+}
+
+
